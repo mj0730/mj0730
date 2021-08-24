@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mj0730
 - 👀 I’m interested in developing for the web
-- 🌱 I’m currently working with React, Nextjs, MongoDB, and lots of other things
-- 💞️ I’m looking to collaborate on finding a developer position 🤨
+- 🌱 I’m currently working with React, Nextjs, MongoDB, and Java
 - 📫 How to reach me: https://www.linkedin.com/in/michael-johnson0813/
 
 <!---
